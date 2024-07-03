@@ -12,5 +12,7 @@
     "cypress:open": "npx cypress open",
     "cypress:run": "npx cypress run"
   },
-  "dependencies": {}
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
 }
